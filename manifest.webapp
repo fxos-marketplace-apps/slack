@@ -1,0 +1,22 @@
+{
+    "name": "Slack",
+    "launch_path": "/slack/index.html",
+    "description": "Slack brings all your communication together in one place.",
+    "icons": {
+        "60": "/slack/img/icon-60.png",
+        "128": "/slack/img/icon-128.png"
+    },
+    "developer": {
+        "name": "Slack Technologies Inc.",
+        "url": "https://slack.com"
+    },
+    "default_locale": "en",
+    "permissions": {
+        "browser": {
+            "description": "Allows us to have additional control over how our app is rendered."
+        },
+        "geolocation": {
+            "description": "Position the user without prompting."
+        }
+    }
+}

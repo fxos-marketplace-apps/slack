@@ -1,0 +1,9 @@
+{
+    "footer": {
+        "blacklist": [],
+        "whitelist": []
+    },
+    "loading_indicator": {
+        "max_load_time": 2000
+    }
+}
